@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x27245224A3934815a4867Dc1B6b12a64A644Fb72",
+  "SCAN_LINK": "https://polygonscan.com/token/0x27245224A3934815a4867Dc1B6b12a64A644Fb72",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "NFT PetCoin",
+  "SYMBOL": "PUPS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/collection",
+  "SHOW_BACKGROUND": true
+}

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x102A3BB0EB09A5F050Cc8a4fd1e8D70f78Fb4405",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x102A3BB0EB09A5F050Cc8a4fd1e8D70f78Fb4405",
+  "NETWORK": {
+    "NAME": "Rinkby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "NFT PetCoin",
+  "SYMBOL": "PUPS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
